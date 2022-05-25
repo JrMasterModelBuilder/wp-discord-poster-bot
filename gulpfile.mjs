@@ -103,6 +103,7 @@ gulp.task(
 
 gulp.task('dist', async () => {
 	const pkg = await fse.readJSON('./package.json');
+	await fse.ensureDir(distDir);
 	const archive = archiver('zip', {
 		zlib: {
 			level: 9
