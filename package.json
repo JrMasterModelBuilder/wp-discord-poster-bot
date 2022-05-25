@@ -1,0 +1,29 @@
+{
+	"private": true,
+	"name": "wp-discord-poster-bot",
+	"nameDisplay": "WP Discord Poster Bot",
+	"description": "MOD Discord Post Plugin.",
+	"version": "0.0.0",
+	"author": "JrMasterModelBuilder",
+	"copyright": "Copyright (c) 2022 JrMasterModelBuilder",
+	"license": "MPL-2.0",
+	"scripts": {
+		"clean": "gulp clean",
+		"format": "gulp format",
+		"formatted": "gulp formatted",
+		"build": "gulp build",
+		"dist": "gulp dist",
+		"all": "gulp all",
+		"watch": "gulp watch"
+	},
+	"devDependencies": {
+		"@prettier/plugin-php": "^0.18.4",
+		"archiver": "^5.3.1",
+		"del": "^6.1.0",
+		"execa": "^6.1.0",
+		"fs-extra": "^10.1.0",
+		"gulp": "^4.0.2",
+		"gulp-insert": "^0.5.0",
+		"prettier": "^2.6.2"
+	}
+}

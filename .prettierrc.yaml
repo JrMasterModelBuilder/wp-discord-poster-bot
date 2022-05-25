@@ -1,0 +1,21 @@
+tabWidth: 4
+printWidth: 80
+useTabs: true
+semi: true
+singleQuote: true
+quoteProps: as-needed
+trailingComma: none
+bracketSpacing: false
+arrowParens: avoid
+jsxSingleQuote: false
+bracketSameLine: false
+phpVersion: '7.4'
+trailingCommaPHP: false
+braceStyle: 1tbs
+overrides:
+  - files:
+      - '*.yaml'
+      - '*.yml'
+    options:
+      tabWidth: 2
+      useTabs: false
