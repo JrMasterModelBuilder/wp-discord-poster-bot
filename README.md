@@ -1,6 +1,6 @@
 # WP Discord Poster Bot
 
-[![Build Status](https://github.com/JrMasterModelBuilder/wp-discord-poster-bot/workflows/main/badge.svg?branch=main)](https://github.com/JrMasterModelBuilder/wp-discord-poster-bot/actions?query=workflow%3Amain+branch%3Amain)
+[![Build Status](https://github.com/JrMasterModelBuilder/wp-discord-poster-bot/workflows/Main/badge.svg?branch=main)](https://github.com/JrMasterModelBuilder/wp-discord-poster-bot/actions?query=workflow%3AMain+branch%3Amain)
 
 # Bugs
 
