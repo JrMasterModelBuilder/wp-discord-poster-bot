@@ -2,7 +2,7 @@
 	"private": true,
 	"name": "wp-discord-poster-bot",
 	"nameDisplay": "WP Discord Poster Bot",
-	"description": "MOD Discord Post Plugin.",
+	"description": "WP Discord Posting Plugin.",
 	"version": "1.0.0",
 	"author": "JrMasterModelBuilder",
 	"copyright": "Copyright (c) 2022 JrMasterModelBuilder",

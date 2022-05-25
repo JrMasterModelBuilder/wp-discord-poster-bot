@@ -47,7 +47,7 @@ class WP_DISCORD_POSTER_BOT_MAIN {
 	 * @return string Plugin title.
 	 */
 	public static function title(): string {
-		return __('MOD Discord Post', 'wp-discord-poster-bot');
+		return __('WP Discord Poster Bot', 'wp-discord-poster-bot');
 	}
 
 	/**
